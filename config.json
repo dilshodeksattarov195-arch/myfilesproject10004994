@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authcync",
+        "uuid": 17573886,
+        "checksum": "9xyuu"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
